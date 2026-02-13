@@ -1,13 +1,15 @@
 {
   "files": {
     "main.css": "/product-card-app/static/css/main.964c82ff.css",
-    "main.js": "/product-card-app/static/js/main.11adfec1.js",
+    "main.js": "/product-card-app/static/js/main.d2e53f27.js",
+    "static/media/watch.png": "/product-card-app/static/media/watch.88e7d8a154ee5d47fe5b.png",
+    "static/media/headphone.png": "/product-card-app/static/media/headphone.7c39038d7ca739fd9e7c.png",
     "index.html": "/product-card-app/index.html",
     "main.964c82ff.css.map": "/product-card-app/static/css/main.964c82ff.css.map",
-    "main.11adfec1.js.map": "/product-card-app/static/js/main.11adfec1.js.map"
+    "main.d2e53f27.js.map": "/product-card-app/static/js/main.d2e53f27.js.map"
   },
   "entrypoints": [
     "static/css/main.964c82ff.css",
-    "static/js/main.11adfec1.js"
+    "static/js/main.d2e53f27.js"
   ]
 }
